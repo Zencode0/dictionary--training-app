@@ -38,4 +38,3 @@ const Dictionary = {
     }
 }
 
-console.log(Dictionary.Title.turkish)
