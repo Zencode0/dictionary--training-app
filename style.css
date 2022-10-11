@@ -1,0 +1,18 @@
+p{
+    font-size: 28px;
+}
+
+button{
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+
+button:hover{
+    background-color: red;
+}
+
+img{
+    width: 50%;
+}
